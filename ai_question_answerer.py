@@ -7,12 +7,12 @@ from transformers import pipeline
 
 class AIQuestionAnswerer:
     MODELS = {
-        '1': 'distilbert-base-uncased-distilled-squad',
-        '2': 'bert-large-uncased-whole-word-masking-finetuned-squad',
-        '3': 'facebook/bart-large',
-        '4': 'deepset/roberta-base-squad2',
+        '1': 'distilbert-base-uncased-distilled-squad',  # Rating: 7/10
+        '2': 'bert-large-uncased-whole-word-masking-finetuned-squad',  # Rating: 6/10
+        '3': 'facebook/bart-large',  # Rating: 3/10
+        '4': 'deepset/roberta-base-squad2',  # Rating: 8/10
         '5': 'google/tapas-large-finetuned-wtq',
-        '6': 'deepset/roberta-large-squad2',
+        '6': 'deepset/roberta-large-squad2',  # Rating: 7/10
         '7': 'allenai/longformer-large-4096'
     }
 
@@ -23,6 +23,7 @@ class AIQuestionAnswerer:
         self.model_name = self.MODELS.get('4', 'deepset/roberta-base-squad2')
         self.qa_pipeline = pipeline('question-answering', model=self.model_name, tokenizer=self.model_name,
                                     device=0)
+        print("Model Using : " + self.model_name)
 
     def load_transcripts(self):
         combined_text = ""
