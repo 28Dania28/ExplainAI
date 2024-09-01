@@ -11,17 +11,19 @@ class AIQuestionAnswerer:
         '2': 'bert-large-uncased-whole-word-masking-finetuned-squad',
         '3': 'facebook/bart-large',
         '4': 'deepset/roberta-base-squad2',
-        '5': 'google/tapas-large-finetuned-wtq'
+        '5': 'google/tapas-large-finetuned-wtq',
+        '6': 'deepset/roberta-large-squad2',
+        '7': 'allenai/longformer-large-4096'
     }
 
     def __init__(self, transcripts_dir):
         self.transcripts_dir = transcripts_dir
         self.transcript_text = self.load_transcripts()
-        self.model_name = self.MODELS.get(4, 'facebook/bart-large')
+        self.model_name = self.MODELS.get(6, 'facebook/bart-large')
         self.qa_pipeline = self.get_model_pipeline()
 
     def get_model_pipeline(self):
-        return pipeline('question-answering', model=self.model_name)
+        return pipeline('question-answering', model=self.model_name, device=0)
 
     def load_transcripts(self):
         combined_text = ""
