@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 from transformers import pipeline
 
@@ -16,11 +17,11 @@ class AIQuestionAnswerer:
     def __init__(self, transcripts_dir):
         self.transcripts_dir = transcripts_dir
         self.transcript_text = self.load_transcripts()
-        self.model_name = self.MODELS.get(3, 'facebook/bart-large')
+        self.model_name = self.MODELS.get(4, 'facebook/bart-large')
         self.qa_pipeline = self.get_model_pipeline()
 
     def get_model_pipeline(self):
-        return pipeline('question-answering', model=self.model_name, device=0)
+        return pipeline('question-answering', model=self.model_name)
 
     def load_transcripts(self):
         combined_text = ""
@@ -29,8 +30,15 @@ class AIQuestionAnswerer:
                 file_path = os.path.join(self.transcripts_dir, file_name)
                 with open(file_path, 'r') as file:
                     data = json.load(file)
-                    combined_text += data.get('transcript', '') + " "
+                    combined_text += self.preprocess_transcript(data) + " "
+        print("Transcript Context : " + combined_text)
         return combined_text
+
+    def preprocess_transcript(self, data):
+        segments = data.get('transcript', [])
+        full_text = ' '.join(segment['text'] for segment in segments)
+        cleaned_text = re.sub(r'\s+', ' ', full_text).strip()
+        return cleaned_text
 
     def answer_question(self, question):
         if not self.transcript_text:

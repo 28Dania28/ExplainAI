@@ -1,3 +1,5 @@
+import json
+
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled
 from youtube_transcript_api.formatters import JSONFormatter
 
@@ -23,7 +25,9 @@ class YouTubeHandler(VideoHandler):
         try:
             transcript_list = YouTubeTranscriptApi.get_transcript(self.video_id)
             formatter = JSONFormatter()
-            return formatter.format_transcript(transcript_list)
+            transcript_json_string = formatter.format_transcript(transcript_list)
+            transcript_json = json.loads(transcript_json_string)
+            return transcript_json
         except TranscriptsDisabled:
             return "Transcript is disabled for this video"
         except Exception as e:
