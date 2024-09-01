@@ -1,0 +1,28 @@
+# For handling video and audio extraction
+yt-dlp
+pytube
+
+# For handling youtube transcript
+youtube-transcript-api
+
+# For speech-to-text conversion
+openai-whisper
+
+# For text preprocessing
+nltk
+regex
+
+# For NLP (summarization and question answering)
+transformers~=4.44.2
+torch
+
+# For additional utilities and data handling
+requests
+pandas
+
+# For running and managing environment
+python-dotenv
+
+//For video processing
+ffmpeg-python
+
