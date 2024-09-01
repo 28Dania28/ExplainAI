@@ -23,6 +23,8 @@ pandas
 # For running and managing environment
 python-dotenv
 
-//For video processing
+# For video processing
 ffmpeg-python
+# For OpenAI
+openai
 

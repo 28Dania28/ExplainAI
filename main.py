@@ -1,4 +1,4 @@
-from ai_question_answerer import AIQuestionAnswerer
+from ai_engine.hugging_face_engine import HuggingFaceEngine
 from processor.content_processor import ContentProcessor
 
 
@@ -8,7 +8,7 @@ def process(video_links):
 
 
 def start_explain_ai_automated_questions():
-    ai = AIQuestionAnswerer(transcripts_dir='transcripts')
+    ai = HuggingFaceEngine(transcripts_dir='transcripts')
     print("ExplainAI Question Answerer is ready. Type 'exit' to quit.")
 
     ques_list = [
@@ -36,7 +36,7 @@ def start_explain_ai_automated_questions():
 
 
 def start_explain_ai():
-    ai = AIQuestionAnswerer(transcripts_dir='transcripts')
+    ai = HuggingFaceEngine(transcripts_dir='transcripts')
     print("ExplainAI Question Answerer is ready. Type 'exit' to quit.")
 
     while True:
