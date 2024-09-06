@@ -27,4 +27,3 @@ python-dotenv
 ffmpeg-python
 # For OpenAI
 openai
-

@@ -9,7 +9,7 @@ def process(video_links):
 
 def start_explain_ai_automated_questions():
     ai = HuggingFaceEngine(transcripts_dir='transcripts')
-    print("ExplainAI Question Answerer is ready. Type 'exit' to quit.")
+    print("ExplainAI Question Answerer is ready. Type 'exit' to quit.\n")
 
     ques_list = [
         "What is the main topic discussed in the transcript?",

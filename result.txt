@@ -1,0 +1,299 @@
+Transcript Context : welcome to business today I'm Michelle flurry in New York where Traders may want to put on their hard hats that's because us markets picked up where Japan left off and the global stock market intensifies as the sell-off continues there are two things that do seem to be driving it Friday's disappointment about how few jobs the US economy added in January and Japan's decision to increase interest rates last week well as you can see the US markets have opened sharply lower you can see the Dow Jones Industrial aage average uh losses there are uh well it's down over a th000 points at the open the S&P 500 crucially is down 4% and the NASDAQ the tech heavy index where we've seen some of the biggest losses that is down over 6% at the opening bell and this is what happened in Japan and also the picture across Europe as I was saying a lot of this negative sentiment seems to be because only 114,000 jobs were added to the US econ in July now that was much lower than expected and that raised fears that the world's biggest economy is slowing and you're seeing that Rippling across those markets which we were just showing you around the world now on Wednesday Japan's Central Bank increased the cost of borrowing with its main interest rate going to around a quarter perc which is the highest in 15 years as a result September 18th is one day many people are looking to that's when the US Federal Reserve will make its latest interest rate decision and investors are wondering if they will cut the cost of borrowing enough to stimulate the economy Katie Kaminsky is Chief research strategist at the investment firm Alpha simplex and joins us from Boston uh Katie what is going on with the markets at this point can you say this is a rational fear or is it irrational this is a very good question but it definitely looks very much like the market is experiencing a recession trade riskof Behavior and we have to remember that the market has been priced for a Goldilocks type scenario a situation where tighter rates and Tighter policy doesn't have strong Economic Consequences as a result we're starting to see people come to terms with or at least have a trigger point that maybe that's not the case and as a result a lot of people are trying to take profit on High valuations I mean let's talk about for example nvidia's share price it's down what 10% that was right before the opening bell rang what does that tell us I mean it was one of the hottest stocks did Things become overpriced and now this is just people sort of retreating or do you think it is a sign that there is really more danger in the economy than people had previously anticipated well I think we have to point out that the data has been coming in weaker for about two months and the narrative in the markets has been shifting initially we were thinking about inflation as a concern that has tempered now the narrative is moving towards the potential for demand destruction and economic weakness if you look at some of the data like housing isn't doing as well manufacturing data has been weak for some time here we're also seeing savings rates down Consumer Debt Rising so the question is really is the market ready for a correction because there's economic weakness that will be fueled by more economic uncertainty or political uncertainty and as well as high valuations will cause people to to want to get out of those positions now I mean Katy a lot of people are looking towards America's Central Bank and what they will do next to ease but if you look around the world you've got the ECB that has cut already easing there you've got Japan that just hiked how is that sort of feeding into what we're seeing is this just a US story or or that that markets around the world are reacting to or are there other factors at play well I think it's a little bit of both but what's most important for the us right now is the fact that this type of data and this type of Market reaction suggests that there's a lot more pressure on the FED than there was a week ago and as a result with September 18th so far away I think there's going to be a lot of concern about how the FED can react or could they react faster I know that pricing on rate hikes went up significantly in the last two days so you're seeing that convexity that sort of nonlinear moves that people are really realizing that this is going to have to be dealt with KY Kaminsky thank you so much for joining us on this well fast moving day and now we can turn to Steven Blitz he is chief us Economist at the economic consultancy TS Lombard uh thanks for joining us on the program look if this was sparked by a growth scare uh particularly we had that weak data last night on manufacturing the ism report and then the jobs report on Friday can you give us a sense really how bad things are right now with the US economy well I it's not a question of things being bad right now I think they're definitely soft right but and if the fed's going to wait for things to be bad to act then it's too late right uh because there is a lag in the time between the FED acts and when the economy response so the issue is and the concern here is not so much that oh we're in a recession today because we are not well we me the US economy but what we are in is a position where you're getting all these warning flags and signs saying that if the FED doesn't start to cut and cut a lot soon we will be in recession by the end of the year now Austin gby is president of the Federal Reserve Bank in Chicago he was saying um a short while ago that we shouldn't read much into one or two pieces of data and and S reiterated the line that we've heard from uh Fed chair Jerome pal that the FED is data dependent what do you agree with that um I don't all right I mean I do in the sense I understand what he's saying but that is the Trap that the FED all central banks really always fall into well we need one more data point we need a little bit more we don't want to react to one data point all well and good but they we're starting from a point where the shortterm money is at five and a half% and inflation is essentially a 3% that's a two and a half 250 basis point spread money is tight and the longer they stay there the greater the odds that you're going to be in a recession at some point the weaker data the weaker earnings data that we've seen Beyond you know the the top seven there you know it's not it's all telling the same story not a recession but economy is weakening and if they're gonna wait to see actual collapsing data and then say oh here we are we should start cutting it's too late so it sounds like you think the FED is behind the curve what happens next does that mean a bigger rate cut in September or what the markets seem to be asking for right now could we see an emergency rate cut on the table uh at this point I don't think you'll see an emergency rate cut unless this sell off in the equity Market which at this point I think is is a little bit of this is some of the ere exuberance or the you know certain stocks sort of coming back to the mean so unless there's some emergency I don't see a mid cut a mid uh meeting cut uh do they cut again do they cut 50 basis point in September if we see another sub 100,000 job number in uh for August and we see weak retail sales as well in July and August the answer is yes and really by any model including John Taylor the aonomus Taylor rule is saying that the funds rate should be at 4% so they've got a long way to go and if they want to take their time cutting that's their business but they'll the the cost of that will be a much more rapid acceleration in cutting later on when we're already in recession so this is about avoiding recession which was always their promise their promise was we could get to 2% without inflation without a recession and if if the economy starts to slow and we have a lower inflation rate we will We being the FED will not let the funds rate push us into recession that's where we are so job not yet done Steven Blitz thank you very much thank you
+
+Model Using : distilbert-base-uncased-distilled-squad
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: Japan's Central Bank increased the cost of borrowing
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: Friday's disappointment
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: weak retail sales
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: increased the cost of borrowing
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: it's down what 10%
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: economic weakness that will be fueled by more economic uncertainty or political uncertainty
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: rational fear
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: fears that the world's biggest economy is slowing
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: jobs report on Friday
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: markets around the world are reacting to or are there other factors at play well
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: Katy a lot of people are looking towards America's Central Bank
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: the data has been coming in weaker for about two months
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: one day many people are looking to that's
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: economy is weakening
+
+Process finished with exit code 0
+
+//////////////////////////////////////
+
+
+Model Using : bert-large-uncased-whole-word-masking-finetuned-squad
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: inflation
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: demand destruction and economic weakness
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: weak retail sales
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: hiked
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: pricing on rate hikes went up significantly in the last two days
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: a lot more pressure on the FED than there was a week ago
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: a lot more pressure on the FED than there was a week ago
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: inflation
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: it definitely looks very much like the market is experiencing a recession
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: the global stock market intensifies as the sell-off continues
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: savings rates down Consumer Debt Rising
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: the narrative in the markets has been shifting
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: that's when the US Federal Reserve will make its latest interest rate decision
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: tighter rates and Tighter policy doesn't have strong Economic Consequences
+
+Process finished with exit code 0
+
+
+////////////////////////////////////////
+
+Model Using : facebook/bart-large
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: th
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: th
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: % so they've got a long way to
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: th
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: % so they've got a long way to
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: th
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: % without inflation without a
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: th
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: % without inflation without a
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: % without inflation without a
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: th
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: % without inflation without a
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: th
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: th
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: th
+
+Process finished with exit code 0
+
+//////////////////////////////
+
+
+Model Using : deepset/roberta-base-squad2
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: inflation
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: Japan's decision to increase interest rates
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: 114,000
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: around a quarter perc
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: down what 10%
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: demand destruction and economic weakness
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: there's a lot more pressure
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: the world's biggest economy is slowing
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: how bad things are right now with the US economy
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: the global stock market intensifies
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: the world's biggest economy is slowing
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: a lot more pressure on the FED than there was a week ago
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: the US Federal Reserve will make its latest interest rate decision
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: the world's biggest economy is slowing
+
+Process finished with exit code 0
+
+////////////////////////////////
+
+Model Using : deepset/roberta-large-squad2
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: a
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: a
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: sub 100,000
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: hiked
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: it's down what 10%
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: potential for demand destruction and economic weakness
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: the
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: world's biggest economy is slowing
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: the FED is data dependent
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: a
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: that raised fears that the world's biggest economy is slowing
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: the FED is data dependent
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: the US Federal Reserve will make its latest interest rate decision
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: Japan's decision to increase interest rates last week
+
+Process finished with exit code 0
+
+
+///////////////////////////
+
+Using Hugging Face Model: t5-small
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: the FED will not let the funds rate push us into recession
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: the US Central Bank increased the cost of borrowing with its main interest rate going to around a
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist at the investment firm Alpha simplex
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: 114,000 jobs were added to the US econ in July now that was much lower than
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: the US Federal Reserve
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: down what 10% that was right before the opening bell rang
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: only 114,000 jobs were added to the US econ in July now that was much lower
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: if the FED doesn't start to cut and cut a lot soon we will
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: the world's biggest economy is slowing
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: we have to point out that the data has been coming in weaker for about two months
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: this type of Market reaction suggests that there's a lot more pressure on the FED
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: the FED will make its latest interest rate decision and investors are wondering if they will cut
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: we have to remember that the data has been coming in weaker for about two months and the
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: one day many people are looking to that's when the US Federal Reserve will make its latest
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: the market intensifies as the sell-off continues
+
+Process finished with exit code 0
+
+////////////////////////////////////////////
+
+Using Hugging Face Model: t5-base
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: the US economy
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: Friday's disappointment about how few jobs the US economy added in January and Japan's decision to increase interest rates last week
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist at the investment firm Alpha simplex
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: 114,000
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: Japan's Central Bank increased the cost of borrowing with its main interest rate going to around a quarter perc which is the highest in 15 years
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: down what 10%
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: only 114,000 jobs were added to the US econ in January
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: market reaction
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: weaker earnings data
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: if the Fed doesn't start to cut and cut a lot soon we will be in recession by the end of the year
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: markets around the world are reacting to or are there other factors at play
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: if the Fed doesn't start to cut and cut a lot soon we will be in recession by the end of the year
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: markets picked up where Japan left off
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: one day many people are looking to that's when the US Federal Reserve will make its latest interest rate decision
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: two things that do seem to be driving it Friday's disappointment about how few jobs the US economy added in January and Japan's decision to increase interest rates last week
+
+Process finished with exit code 0
+
+//////////////////////////////////////////////
+
+Using Hugging Face Model: t5-large
+ExplainAI Question Answerer is ready. Type 'exit' to quit.
+You : What is the main topic discussed in the transcript?
+ExplainAI: the US Federal Reserve will make its latest interest rate decision
+You : What were the two main factors driving the market sentiment according to the transcript?
+ExplainAI: Friday's disappointment about how few jobs the US economy added in January and Japan's decision to increase interest rates last week
+You : Who is Katie Kaminsky, and what is her role?
+ExplainAI: Chief research strategist at the investment firm Alpha simplex
+You : What specific job creation data from July is mentioned, and how did it impact the market?
+ExplainAI: 114,000 jobs were added to the US econ in July
+You : What interest rate change did Japan's Central Bank implement, and why is it significant?
+ExplainAI: increased the cost of borrowing with its main interest rate going to around a quarter perc which is the highest in 15 years
+You : How did Nvidia’s share price change, and what implications does this have according to the discussion?
+ExplainAI: down what 10%
+You : What are the potential reasons for the market's negative reaction described in the transcript?
+ExplainAI: economic weakness that will be fueled by more economic uncertainty or political uncertainty
+You : How does the transcript suggest the Federal Reserve's actions could impact the market?
+ExplainAI: there's a lot more pressure on the FED than there was a week ago
+You : What are the broader economic concerns raised in the transcript beyond the immediate market reaction?
+ExplainAI: the potential for demand destruction and economic weakness
+You : Can you provide a summary of the key points discussed about the current market conditions?
+ExplainAI: Austin gby is president of the Federal Reserve Bank in Chicago he was saying um a short while ago that we shouldn't read much into one or two pieces of data
+You : How does the transcript suggest global economic factors are influencing the US market?
+ExplainAI: a lot more pressure on the FED than there was a week ago
+You : What are the key takeaways regarding future economic expectations as mentioned in the transcript?
+ExplainAI: Austin gby is president of the Federal Reserve Bank in Chicago he was saying um a short while ago that we shouldn't read much into one or two pieces of data
+You : How did the recent economic data influence market predictions according to the discussion?
+ExplainAI: the narrative in the markets has been shifting initially we were thinking about inflation as a concern that has tempered
+You : What is the significance of the September 18th date mentioned in the context of the Federal Reserve?
+ExplainAI: September 18th is one day many people are looking to that's when the US Federal Reserve will make its latest interest rate decision
+You : What contrasting economic actions are highlighted between the US and other global markets?
+ExplainAI: Japan's decision to increase interest rates last week
+
+Process finished with exit code 0
