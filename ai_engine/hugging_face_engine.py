@@ -46,10 +46,11 @@ class HuggingFaceEngine(AIQuestionAnswerer):
         '39': {'name': 'nreimers/MiniLM-L6-H384-uncased', 'type': 'question-answering'},
         '40': {'name': 'microsoft/phi-2', 'type': 'text-generation'},
         '41': {'name': 'meta-llama/Meta-Llama-3-8B', 'type': 'text-generation'},
-        '42': {'name': 'google/gemma-7b', 'type': 'text-generation'}
+        '42': {'name': 'google/gemma-7b', 'type': 'text-generation'},
+        '43': {'name': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B', 'type': 'text-generation'}
     }
 
-    DEFAULT_MODEL_TYPE = '40'
+    DEFAULT_MODEL_TYPE = '43'
 
     def __init__(self, transcripts_dir):
         super().__init__(transcripts_dir)
